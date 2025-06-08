@@ -33,4 +33,4 @@ Chatbot Design Practice for Developers Developers aiming to learn or practice ch
 
 ### OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/a4ed51ea-c229-4709-acd0-b3edff71a74a)
